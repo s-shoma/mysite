@@ -20,5 +20,6 @@ async def on_message(message):
         await message.channel.send("こんにちは！")
 
 
+# my token
 token = "MTE3NjE0MzM0OTUwMjIwMTg3Nw.G-giQw.i5Pr3gc4t_rWs-Uzd0_Nu-CtRHW8PHkOFIK9DM"
 client.run(token)
